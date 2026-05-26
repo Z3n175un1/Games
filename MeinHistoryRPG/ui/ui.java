@@ -1,21 +1,22 @@
-// Clase de UI para mostrar la pantalla
-import java.awt.Frame;
-// import
-// import 
-// import
+import java.awt.*;        
+import java.awt.event.*;    
 
-class UI extends Frame{
-    
-    public Label(String strLabel, int alignment); // Construct a Label with the given text String, of the text alignment
-    public Label(String strLabel);                // Construct a Label with the given text String
-    public Label();     
-    public GUI(){
+public class GUI extends Frame {
+   private Button Nueva_historia;   
+   private Button Cargar_historia;     
+   private Button Opciones;     
+   private Button Salir;     
 
-    }
-}
+   public GUI () {
+   }
 
-class main{
-    public static void main(String[] args){
-                
-    }
+   // The entry main() method
+   public static void main(String[] args) {
+      GUI app = new GUI();
+   }
+
+   private class BtnCountListener implements ActionListener {
+      public void actionPerformed(ActionEvent evt) {
+      }
+   }
 }
