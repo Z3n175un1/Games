@@ -7,7 +7,7 @@ class items{
     protected String composicion_item;
     protected String Mundo_item;
 
-    public item(String tipo_item, String Nombre_item, int Daño_item, int experiencia_requerida, int nivel_requerida, String composicion_item, String Mundo_item,){
+    public item(String tipo_item, String Nombre_item, int Daño_item, int experiencia_requerida, int nivel_requerida, String composicion_item, String Mundo_item){
         this.tipo_item = tipo_item;
         this.Nombre_item = Nombre_item;
         this.Daño_item = Daño_item;
