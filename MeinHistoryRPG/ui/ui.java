@@ -1,3 +1,4 @@
+// Clase de UI para mostrar la pantalla
 class UI{
 
 }
