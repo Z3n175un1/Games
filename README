@@ -1,0 +1,62 @@
+# (GAME 1) ~ MeinHistoryRPG
+
+Simple RPG project made for fun and learning.
+
+No frameworks.
+No AI generated code.
+Just programming like the old internet days.
+
+## About
+
+MeinHistoryRPG is an experimental RPG game project focused on gameplay ideas, classic mechanics and old-school development style.
+
+This repository is part of my personal game experiments collection.
+
+The project is being built manually step by step without depending on automated generators or modern bloated toolchains.
+
+## Features
+
+* RPG mechanics
+* Experimental systems
+* Retro development philosophy
+* Pure code editing
+* Personal learning project
+
+## Project Status
+
+Work in progress.
+
+Things may change, break or be rewritten completely.
+
+## Philosophy
+
+This project is made like the old days:
+
+* writing code manually
+* learning by trial and error
+* no copy paste from AI
+* no overengineering
+* no unnecessary dependencies
+
+Just code, ideas and experimentation.
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Z3n175un1/Games.git
+```
+
+Open the project folder and run it however your environment supports it.
+
+## Goals
+
+* Learn game development
+* Improve programming skills
+* Experiment with RPG systems
+* Keep the spirit of old independent development alive
+
+## License
+
+Licensed under the MIT License.
